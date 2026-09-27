@@ -5,6 +5,10 @@
 
 ---
 
+### Supported Platforms:
+* 🪟 [Windows (64-Bit)]
+  * .NET Framework 4.8
+
 ## 🚀 Features
 
 * **Languages:** UI in English and German.
