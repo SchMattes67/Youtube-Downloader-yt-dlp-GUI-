@@ -7,7 +7,8 @@
 
 ## 🚀 Features
 
-* **Languages:** UI in english and german.
+* **Languages:** UI in English and German.
+  * start with argument /e to force English or /d to force German language
 * **Easy to Use:** Just copy the URL to the clipboard.
 * **Format Selection:** Easily switch between video (MP4, MKV, etc.) and audio-only extraction (MP3, M4A, etc.).
 * **Quality Control:** Choose between best available quality or lower resolutions to save data.
@@ -16,7 +17,7 @@
 * **yt-dlp auto update** Automatically updates yt-dlp on application startup.
 * **Download list:** Real-time download list with saving on exit.
 * **Notifications:** Enables various windows notifications in the background.
-* **Audio gain:** Normaize audio volume in one step.
+* **Audio gain:** Normalize audio volume in one step.
 * **Thumbnail support:** Allow embedding the thumbnail in destination file.
 * **Split Chapter support:** Allow splitting a video into separate files per each chapter.
 * **Metadata support:** Allow embedding metadata into destination file.
