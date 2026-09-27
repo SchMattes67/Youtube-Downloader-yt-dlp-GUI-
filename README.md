@@ -19,6 +19,7 @@
 * **Playlist Support:** Download entire playlists with a single click.
 * **Progress Tracking:** Real-time display of download speed and remaining time.
 * **yt-dlp auto update** Automatically updates yt-dlp on application startup.
+* **Intelligent filename:** Intelligent filename detection and generation.
 * **Download list:** Real-time download list with saving on exit.
 * **Notifications:** Enables various windows notifications in the background.
 * **Audio gain:** Normalize audio volume in one step.
