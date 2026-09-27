@@ -7,21 +7,28 @@
 
 ## 🚀 Features
 
-* **Easy to Use:** Just paste the URL, select your quality, and start the download.
+* **Languages:** UI in english and german.
+* **Easy to Use:** Just copy the URL to the clipboard.
 * **Format Selection:** Easily switch between video (MP4, MKV, etc.) and audio-only extraction (MP3, M4A, etc.).
 * **Quality Control:** Choose between best available quality or lower resolutions to save data.
 * **Playlist Support:** Download entire playlists with a single click.
 * **Progress Tracking:** Real-time display of download speed and remaining time.
+* **Notifications:** Enables various windows notifications in the background.
+* **audio gain:** Normaize audio volume in one step.
+* **Thumbnail support:** Allow embedding the thumbnail in destination file.
+* **Split Chapter support:** Allow splitting a video into separate files per each chapter.
+* **Metadata support:** Allow embedding metadata into destination file.
+* **Debug mode:** Allow debug mode for finding bugs.
 
 ---
 
 ## 🛠️ Installation & Requirements
 
 ### 1. Prerequisites
-## a. This interface requires **yt-dlp** running in the background to handle downloads.
-* Download the latest version from the [yt-dlp GitHub Repository](https://github.com/yt-dlp/yt-dlp).
-## b. This interface requires **ffmpeg** running on demand to handle audio and video convertations.
-* Download the latest version from the [ffmpeg GitHub Repository](https://github.com/ffmpeg/ffmpeg).
+* This interface requires **yt-dlp** running in the background to handle downloads.
+  Download the latest version from the [yt-dlp GitHub Repository](https://github.com/yt-dlp/yt-dlp).
+* This interface requires **ffmpeg** running on demand to handle audio and video convertations.
+  Download the latest version from the [ffmpeg GitHub Repository](https://github.com/ffmpeg/ffmpeg).
 
 
 ### 2. Running the Application
